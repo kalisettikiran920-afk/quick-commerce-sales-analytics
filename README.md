@@ -67,7 +67,7 @@ Use order, delivery, and customer interaction data to identify trends and provid
   - Delivery delays and refund requests  
   - Service ratings by platform and category  
   - Customer segmentation and top customers  
-  - Part-to-whole contribution analysis  
+  - Part-to-whole contribution analysis  ...
 
 ### 3️⃣ Dashboard (Power BI)  
 Below is a preview of the Power BI dashboard created for this project:
