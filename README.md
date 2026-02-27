@@ -34,7 +34,7 @@ Use order, delivery, and customer interaction data to identify trends and provid
 - **SQL Server** – Data analysis and business metrics  
 - **Power BI** – Interactive dashboard and data storytelling  
 - **GitHub** – Project version control and portfolio  
-- **Other tools** - *Draw.io* for planning the project flow, *ChatGPT* and *Google Docs* for documentaion
+- **Other tools** - *Draw.io* for planning the project flow, *ChatGPT* and *Google Docs* for documentaion, *gamma.ai* for making presentation
   
 ---
 
