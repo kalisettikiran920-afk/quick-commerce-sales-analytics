@@ -1,4 +1,4 @@
-# End-to-End Q-Commerce Delivery & Sales Analytics Project  
+# End-to-End Q-Commerce Sales & Analytics Project  
 (Python | SQL Server | Power BI)
 
 ## 📌 Project Overview  
@@ -13,7 +13,7 @@ Business Problem → Python (EDA) → SQL Server (Analysis) → Power BI (Dashbo
 ## 🔁 Project Workflow  
 Below is the end-to-end workflow I followed for this project:
 
-![Project Workflow](images/Draw.io_project_flow_diagram.drawio.png)
+![Project Workflow](images/q_commerce_project_flow.jpg)
 
 *(Workflow designed by me using draw.io)*
 
@@ -34,12 +34,13 @@ Use order, delivery, and customer interaction data to identify trends and provid
 - **SQL Server** – Data analysis and business metrics  
 - **Power BI** – Interactive dashboard and data storytelling  
 - **GitHub** – Project version control and portfolio  
-
+- **Other tools** - *Draw.io* for planning the project flow, *ChatGPT* and *Google Docs* for documentaion
+  
 ---
 
 ## 📂 Project Structure  
 - data/ → Raw and cleaned dataset  
-- notebooks/ → Python EDA & data cleaning notebooks  
+- notebooks/ → Python EDA & data transformation notebooks  
 - sql/ → SQL Server analysis queries  
 - powerbi/ → Power BI dashboard (.pbix)  
 - report/ → Business problem statement & domain guide (PDF)  
