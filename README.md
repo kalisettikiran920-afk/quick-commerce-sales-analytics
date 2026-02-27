@@ -72,7 +72,7 @@ Use order, delivery, and customer interaction data to identify trends and provid
 ### 3️⃣ Dashboard (Power BI)  
 Below is a preview of the Power BI dashboard created for this project:
 
-![Power BI Dashboard](images/Q_Commerce_Dashboard.png)
+![Power BI Dashboard](images/q_commerce_dashboard_image.jpeg)
 
 The dashboard includes:  
 - KPI cards (Total Orders, Total Sales, Avg Delivery Time, Avg Rating, AOV)  
